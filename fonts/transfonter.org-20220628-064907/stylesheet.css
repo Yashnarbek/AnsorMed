@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Encode Sans Condensed';
+    src: url('EncodeSansCondensed-Bold.woff2') format('woff2'),
+        url('EncodeSansCondensed-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
